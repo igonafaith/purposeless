@@ -1,0 +1,2 @@
+# purposeless
+Purposeless Script Code
